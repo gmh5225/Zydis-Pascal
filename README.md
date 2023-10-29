@@ -5,6 +5,10 @@ Zydis Pascal Bindings
 
 Pascal language bindings for the [Zydis library](https://github.com/zyantific/zydis), a fast and lightweight x86/x86-64 disassembler.
 
+## TODO
+This repo still in development
+
+---
 
 ## Example
 ```pascal
